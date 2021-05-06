@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/FingerSoccerKit" t="Include">
+        <e p="C#-Assets" t="Include">
+          <e p="Scripts-C#" t="Include">
+            <e p="ActivationModel.cs" t="Include" />
+            <e p="BallManager.cs" t="Include" />
+            <e p="ConfigController.cs" t="Include" />
+            <e p="Fa.cs" t="Include" />
+            <e p="FontConverter.cs" t="Include" />
+            <e p="FormationManager.cs" t="Include" />
+            <e p="FreeCoinController.cs" t="Include" />
+            <e p="GameSummaryManager.cs" t="Include" />
+            <e p="GlobalGameManager.cs" t="Include" />
+            <e p="GoalKeeperController.cs" t="Include" />
+            <e p="HeartBeatAnimationEffect.cs" t="Include" />
+            <e p="IngameFormation.cs" t="Include" />
+            <e p="LoginScript.cs" t="Include" />
+            <e p="MenuController.cs" t="Include" />
+            <e p="MoneyController.cs" t="Include" />
+            <e p="mouseFollow.cs" t="Include" />
+            <e p="OpponentAI.cs" t="Include" />
+            <e p="OpponentUnitController.cs" t="Include" />
+            <e p="PauseManager.cs" t="Include" />
+            <e p="PenaltyController.cs" t="Include" />
+            <e p="PlayerAI.cs" t="Include" />
+            <e p="playerColliderManager.cs" t="Include" />
+            <e p="playerController.cs" t="Include" />
+            <e p="Rotator.cs" t="Include" />
+            <e p="ScaleAnimator.cs" t="Include" />
+            <e p="ShopController.cs" t="Include" />
+            <e p="ShopItemProperties.cs" t="Include" />
+            <e p="ShopManager.cs" t="Include" />
+            <e p="TeamsManager.cs" t="Include" />
+            <e p="TournamentManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets/RestClient" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ConnectionSc.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="Auth.cs" t="Include" />
+            <e p="Photo.cs" t="Include" />
+            <e p="Post.cs" t="Include" />
+            <e p="Todo.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Football.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Football.-334268934.00" t="ExcludeRecursive" />
+  </component>
+</project>

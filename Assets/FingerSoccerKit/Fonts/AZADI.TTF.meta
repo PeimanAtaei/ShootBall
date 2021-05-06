@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eecd61fe78ddfab4289d425755c4b809
+timeCreated: 1527253025
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: W_azadi
+  fontNames:
+  - W_azadi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
